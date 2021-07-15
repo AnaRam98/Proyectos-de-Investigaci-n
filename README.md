@@ -78,7 +78,7 @@ En términos generales, se espera que un proyecto de investigación (o plan de t
 -	Proyectos que integran el programa 
  ![image](https://user-images.githubusercontent.com/78773980/125733545-6860e049-4f49-4b6e-b9cf-3583cc70ab96.png)
 
-**2.6. Protocolo para la presentación de programas de investigación**
+**2.6. Protocolo para la presentación de programas de investigaciòn**
 
 La finalidad de este protocolo es que el comité de evaluación den por concluido satisfactoriamente el proyecto al identificar a partir del análisis detallado de la problemática científica, educativa, tecnológica, productiva, económica o social que se pretende resolver 
 ![image](https://user-images.githubusercontent.com/78773980/125733622-b83f1f11-5505-409c-9a57-ac8a83dee14c.png)
