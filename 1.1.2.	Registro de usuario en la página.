@@ -1,0 +1,11 @@
+1.1.2.	Registro de usuario en la página.
+
+En la pagina principal se encuentra un botón "Crear cuenta" el cual al darle click mostraraá un formulario de registro  en el que se debe ingresar:
+•	Nombre 
+•	Apellidos
+•	N° de empleado
+•	Carrera
+•	Correo institucional o de referencia 
+•	Contraseña
+
+
