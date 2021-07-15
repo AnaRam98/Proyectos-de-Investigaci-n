@@ -1,12 +1,11 @@
 # Proyectos-de-Investigación
-**
-1.	Análisis.**
+**1. Analisis**
 Realizar una página web donde los docentes de las diferentes áreas del Tecnológico de Estudios Superiores de Ecatepec puedan registrar programas y / o proyectos de investigación
 
-1.1.	Identificar necesidades.
+**1.1.	Identificar necesidades.**
 Lo primero que realizamos para crear nuestro proyecto fue instalar node.js, angular cli y Typecript
 
-**
+
 1.1.1.	Acceso al sistema.**
 Para ingresar al sistema el usuario tendrá 3 opciones para ingresar (Docentes, Jefe de Carrera y Comité de Evaluación) una vez que seleccione una de estas 3 opciones, se mostrará una ventana de inicio de sesión, donde el usuario tendrá que ingresar el correo con el que se registró o número de matrícula que registro.
 **
