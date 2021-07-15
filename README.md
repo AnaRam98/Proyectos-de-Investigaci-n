@@ -16,12 +16,14 @@ Para el registro de usuario, en la página principal habrá un botón “Crear c
 •	Correo institucional o de referencia 
 •	Contraseña
 
+![image](https://user-images.githubusercontent.com/78773980/125728811-0b116f32-acd4-4030-bba2-5d485cbf6808.png)
 
 
 1.1.3.	Criterios de contraseña
 El usuario tendrá que ingresar una contraseña que contenga al menos 8 caracteres que deberán incluir mayúsculas, minúsculas y combinar letras y números.
 1.1.4.	Iniciar sesión.
 En la página principal se encuentran 3 botones que sirven para seleccionar el usuario que desea ingresar. Una vez que se haya registrado el usuario deberá ingresar el correo o número de empleado que haya registrado y la contraseña.
+![image](https://user-images.githubusercontent.com/78773980/125728849-77d28ce1-2474-4ab0-92b4-33855e06bc23.png)
 
 .
 1.1.5.	Olvido su contraseña.
@@ -33,6 +35,7 @@ La página principal tendrá un menú con 3 botones de lado derecho que serán p
 En la parte superior habrá un menú (nadvar) con 3 opciones (Tese, Admisión, Docentes) a un costado el logo de la universidad.
 Un texto alusivo “¿Sabes cuáles son los pasos para crear tu proyecto?” y a bajo un botón “Crear cuenta” para que puedan registrarse.
  
+![image](https://user-images.githubusercontent.com/78773980/125728877-6ba09639-ba0e-421b-9c36-463e52f1d1be.png)
 
 
 2.2.	Cubrir criterios de 1.1.1
