@@ -116,6 +116,7 @@ En la hoja de calificaciones necesitamos el nombre del programa, el nombre del c
 De forma breve el evaluador mencionara la aceptación o rechazo del programa y anotaran el nombre de los que evaluaron el programa. La hoja necesita la firma de cada uno de los evaluadores, así como también el nombre y firma del responsable de la función de investigación, jefe de división y director académico.  
 
 
+![image](https://user-images.githubusercontent.com/78773980/127406571-c0016a12-4760-4ed6-9874-c4a494aee4a6.png)
 
 
 
