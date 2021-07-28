@@ -1,8 +1,8 @@
-#MANUAL TÉCNICO
+# MANUAL TÉCNICO 
 
-#PROYECTOS DE INVESTIGACIÓN INTERNO
+# PROYECTOS DE INVESTIGACIÓN INTERNO
 
-OBJETIVOS:
+**OBJETIVOS:**
 
  ➢ Dar a conocer toda la información necesaria a los administradores que llevaran a cabo la instalación y control de la plataforma web. 
  
