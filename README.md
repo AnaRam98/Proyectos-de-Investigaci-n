@@ -72,7 +72,7 @@ Una vez que el usuario logre iniciar sesión, entrara a la página “Inicio” 
 ![image](https://user-images.githubusercontent.com/78773980/127408631-c3e821ae-6c3c-44a1-bc6e-4c50ee735fc6.png)
 
 
-**2.5. Protocolo para la presentación de proyectos para la presentación de proyectos de investigación **
+**2.5. Protocolo para la presentación de proyectos para la presentación de proyectos de investigación**
 
 Objetivo. Ofrecer al docente y al estudiante una guía de apoyo para el diseño de proyectos de investigación científica y tecnológica además de los lineamientos necesarios para redactar un informe final. 
 En términos generales, se espera que un proyecto de investigación (o plan de trabajo) considere los siguientes aspectos del Protocolo para la presentación de proyectos de investigación FO-TESE-DA-67- PIDT01 
@@ -88,7 +88,7 @@ En términos generales, se espera que un proyecto de investigación (o plan de t
 La finalidad de este protocolo es que el comité de evaluación den por concluido satisfactoriamente el proyecto al identificar a partir del análisis detallado de la problemática científica, educativa, tecnológica, productiva, económica o social que se pretende resolver 
 ![image](https://user-images.githubusercontent.com/78773980/125733622-b83f1f11-5505-409c-9a57-ac8a83dee14c.png)
 
-**2.7. Dictamen de programa y/o proyecto de investigación **
+**2.7. Dictamen de programa y/o proyecto de investigación**
 
 Un diseño web sencillo centrado totalmente en la profesionalidad del proyecto web y en el objeto de investigación principal. Un sistema de noticias mediante el cual la página web se encuentra totalmente actualizada y se pueda permitir subir novedades y nuevos artículos sobre diversos temas. Artículos profesionales y además un sistema de álbumes de fotografías que permiten enriquecer la web con las imágenes que se van añadiendo al listado. Los profesores son predeterminados para realizar su presentación en este proyecto. 
 El desarrollo web siempre podéis visitar su página web y seguir disfrutando de este interesante tema de investigación. Un nuevo diseño web por nuestro equipo.  
@@ -97,7 +97,7 @@ Tratamos de que nuestra invitación debe ser clara, contener información oficia
 ![image](https://user-images.githubusercontent.com/78773980/125733832-3bfb0f13-da0f-4e68-ba7b-490444e99545.png)
 
 
-**2.8. Dictamen y carta de liberación de programa y/o proyecto de investigación **
+**2.8. Dictamen y carta de liberación de programa y/o proyecto de investigación**
 
 Este formato es un requisito para estudiantes, docentes y coordinadores del 
 TESE que deseen ingresar a la página web de elaboración de Proyecto de Investigación. 
@@ -105,7 +105,7 @@ El firmante reconoce a través de esta Carta de Liberación, que el proyecto "Pr
 
 ![image](https://user-images.githubusercontent.com/78773980/125734181-812a7fc3-f495-4e24-a405-9fb636f9f257.png)
 
-**2.9. Protocolo para la evaluación de proyectos de investigación **
+**2.9. Protocolo para la evaluación de proyectos de investigación**
 
 El protocolo para la evaluación es el siguiente:  
 Se tiene la calificación con base a su importancia en el aprendizaje, esta calificación es otorgada por el comité de evaluación. Se deberá asignar la prioridad del proyecto en la división. Se requerirá el nombre y firma de los evaluadores. 
