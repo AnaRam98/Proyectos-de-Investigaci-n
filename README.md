@@ -63,13 +63,14 @@ Un texto alusivo “¿Sabes cuáles son los pasos para crear tu proyecto?” y a
 -	Llenar datos un formulario con datos personales y académicos.
 -	Menú básico donde se podrá consultar diferente información relacionada con el Tecnológico.
 
-**2.4. Desarrollo del proyecto. **
+**2.4. Desarrollo del proyecto.**
 
 Una vez que el usuario logre iniciar sesión, entrara a la página “Inicio” en donde se mostrara su perfil, en el habrá un botón “Ir a formularios” este lo enlazara a una página hija donde habrá  8 enlaces que son los Protocolos, formularios, etc que deberá llenar el alumno.
 
 ![image](https://user-images.githubusercontent.com/78773980/125733396-5ecc93be-664e-4c35-aa61-45fa5550640b.png)
 
-! [imagen] (https://user-images.githubusercontent.com/78773980/125733369-32caa7c9-e149-43c3-8e6d-7010b0e6a636.png)
+![image](https://user-images.githubusercontent.com/78773980/127408631-c3e821ae-6c3c-44a1-bc6e-4c50ee735fc6.png)
+
 
 **2.5. Protocolo para la presentación de proyectos para la presentación de proyectos de investigación **
 
