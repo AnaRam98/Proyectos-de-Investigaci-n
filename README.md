@@ -44,6 +44,9 @@ En la página principal se encuentran 3 botones que sirven para seleccionar el u
 
 Opción para ayudar a los usuarios a recuperar su cuenta mediante los datos que ingresaron al registrarse como correo y numero de empleado. Se enviara un código de recuperación al            correo institucional o el que registraron. 
 
+![image](https://user-images.githubusercontent.com/78773980/127408483-c73176ac-5ac0-408c-b8ca-e474e3ce1631.png)
+
+
 **2. Diseño**
 
 **2.1 Diseño propuesto para las necesidades**
