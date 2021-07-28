@@ -1,4 +1,4 @@
-#MANUAL TECNICO 
+#MANUAL TÉCNICO
 
 #PROYECTOS DE INVESTIGACIÓN INTERNO
 
@@ -64,11 +64,18 @@ Empezamos creando un módulo “Pagina” al que le agregamos alrededor de 6 com
 Los comandos que utilizamos en la terminal son:
 
  ng g m Pagina
+ 
 ng g c Pagina/Pag
+
 ng g c Pagina/Login
+
 ng g c Pagina/Navbar
+
 ng g c Pagina/FormularioRegistro
+
 ng g c Pagina/Recuperar
+
 ng g c Pagina/Inicio
+
 
 
