@@ -82,3 +82,10 @@ Un lenguaje de programación muy potente es HTML que junto con JavaScript, permi
 **CSS**
 
 Nuestro proyecto consta de varios formularios como es el formulario login, formulario de registro y la idea principal es mostrar unos documentos en forma de test los cuales también requieren de estilos css. Por lo que decidimos agregar los estilos a un apartado del repositorio
+
+**BASE DE DATOS**
+Firebase de Google es una plataforma en la nube para el desarrollo de aplicaciones web y móvil. Está disponible para distintas plataformas (iOS, Android y web), con lo que es más rápido trabajar en el desarrollo.
+Su función esencial es hacer más sencilla la creación de tanto aplicaciones webs como móviles y su desarrollo, procurando que el trabajo sea más rápido, pero sin renunciar a la calidad requerida.
+
+Sus herramientas son variadas y de fácil uso, considerando que su agrupación simplifica las tareas de gestión a una misma plataforma. Las finalidades de las mismas se pueden dividir en cuatro grupos: desarrollo, crecimiento, monetización y análisis.
+
