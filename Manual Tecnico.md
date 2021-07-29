@@ -8,7 +8,8 @@
  
 ➢ Representar la estructura técnica y diseño de la plataforma
 
-CONTENIDO
+**CONTENIDO**
+
 
 1	Análisis.	
 
@@ -51,11 +52,7 @@ CONTENIDO
 3. Implementación del Proyecto.	
 
 
-
-
-
-HERRAMIENTAS UTILIZADAS PARA EL DESARROLLO
-
+**HERRAMIENTAS UTILIZADAS PARA EL DESARROLLO**
 El proyecto se creó en WebStorm que es un entorno de desarrollo integrado para JavaScript y las tecnologías relacionadas. Al igual que otros IDE de JetBrains, fue necesario instalar: node.js, angular.cli y typeScript.
 
 Angular CLI es un entorno para desarrollar aplicaciones web, es una herramienta de linea de comandos que facilita la creación, generación, ejecución, testing, deploy.
@@ -77,5 +74,11 @@ ng g c Pagina/Recuperar
 
 ng g c Pagina/Inicio
 
+**HTML Y JAVASCRIPT**
+
+Un lenguaje de programación muy potente es HTML que junto con JavaScript, permite crear sitios web dinámicos. Cuando un cliente (cualquier persona en la web) visita la página web que contiene este código, el servidor lo ejecuta y el cliente sólo recibe el resultado. Su ejecución, es por tanto en el servidor, a diferencia de otros lenguajes de programación que se ejecutan en el navegador.
 
 
+**CSS**
+
+Nuestro proyecto consta de varios formularios como es el formulario login, formulario de registro y la idea principal es mostrar unos documentos en forma de test los cuales también requieren de estilos css. Por lo que decidimos agregar los estilos a un apartado del repositorio
